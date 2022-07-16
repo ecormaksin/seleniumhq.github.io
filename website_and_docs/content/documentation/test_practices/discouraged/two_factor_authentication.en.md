@@ -8,7 +8,7 @@ aliases: [
 ] 
 ---
 
-Two Factor Authentication (2FA) is an authorization 
+Two Factor Authentication (2FA) is an authentication 
 mechanism where a One Time Password (OTP) is generated using "Authenticator" 
 mobile apps such as "Google Authenticator", "Microsoft Authenticator" 
 etc., or by SMS, e-mail to authenticate. Automating this seamlessly 
